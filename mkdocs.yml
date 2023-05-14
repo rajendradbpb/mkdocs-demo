@@ -1,0 +1,7 @@
+site_name: Webportal docs
+site_url: https://venerable.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - Web Portal: ./webportal/index.md
+theme: readthedocs
