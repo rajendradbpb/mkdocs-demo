@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://venerable.com/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://venerable.com/about/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://venerable.com/webportal/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://venerable.com/webportal/github-repo/</loc>
-         <lastmod>2023-08-29</lastmod>
+         <lastmod>2023-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
